@@ -1,0 +1,4 @@
+3,Malvina,10,40
+2,Artemon,2,20
+5,Kot,1,8
+4,Lisa,2,5
